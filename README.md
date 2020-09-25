@@ -1,6 +1,6 @@
 # DjangoBooks
 
-List of books(PDF)
+List of books(PDF):
 
 1. Django-Admin-CookBook
 2. Django API Book
